@@ -40,7 +40,7 @@ require (
 	github.com/tensorflow/tensorflow v1.15.2
 	github.com/tidwall/gjson v1.18.0
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
-	github.com/urfave/cli v1.22.15
+	github.com/urfave/cli v1.22.16
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
 	golang.org/x/crypto v0.28.0
 	golang.org/x/net v0.30.0
@@ -60,7 +60,7 @@ require github.com/google/uuid v1.6.0
 
 require github.com/chzyer/readline v1.5.1 // indirect
 
-require github.com/gabriel-vasile/mimetype v1.4.5
+require github.com/gabriel-vasile/mimetype v1.4.6
 
 require (
 	golang.org/x/sync v0.8.0
@@ -70,7 +70,7 @@ require (
 require github.com/go-ldap/ldap/v3 v3.4.8
 
 require (
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/common v0.60.0
 )
 
@@ -97,7 +97,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dsoprea/go-logging v0.0.0-20200710184922-b02d349568dd // indirect
 	github.com/dsoprea/go-utility/v2 v2.0.0-20221003172846-a3e1774ef349 // indirect
